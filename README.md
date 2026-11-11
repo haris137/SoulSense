@@ -7,7 +7,7 @@ in 8 categories, a **forward-chaining inference engine**, **conflict resolution*
 
 > Fan-made project, not affiliated with Aggro Crab. No machine learning is used.
 
-**Live URL:** *not deployed yet* – follow [Deployment](#deployment-streamlit-community-cloud) and paste your URL here.
+**Live URL:** [https://your-app-name.vercel.app](https://your-app-name.vercel.app)
 
 ---
 
