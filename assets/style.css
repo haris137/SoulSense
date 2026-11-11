@@ -1,0 +1,23 @@
+/* SOULSENSE styling - uses translucent colours so it works in light and dark themes */
+.ss-hero{padding:1.4rem 1.6rem;border-radius:18px;margin-bottom:1.2rem;
+  background:linear-gradient(135deg,rgba(228,87,46,.18),rgba(27,154,170,.18));
+  border:1px solid rgba(127,127,127,.25);}
+.ss-hero h1{margin:0 0 .3rem 0;padding:0;font-size:2rem;}
+.ss-hero p{margin:0;opacity:.85;font-size:1.02rem;}
+.ss-card{padding:.85rem 1.05rem;margin:.55rem 0 .15rem 0;border-radius:14px;
+  border:1px solid rgba(127,127,127,.25);border-left-width:6px;background:rgba(127,127,127,.07);}
+.ss-critical{border-left-color:#d93025;background:rgba(217,48,37,.10);}
+.ss-warning{border-left-color:#f29900;background:rgba(242,153,0,.10);}
+.ss-tip{border-left-color:#1b9aaa;background:rgba(27,154,170,.10);}
+.ss-info{border-left-color:#7f8c8d;}
+.ss-meta{display:flex;gap:.5rem;align-items:center;flex-wrap:wrap;font-size:.78rem;margin-bottom:.25rem;}
+.ss-badge{padding:.1rem .55rem;border-radius:999px;font-weight:700;color:#fff;}
+.ss-b-critical{background:#d93025;}.ss-b-warning{background:#d68100;}
+.ss-b-tip{background:#1b9aaa;}.ss-b-info{background:#7f8c8d;}
+.ss-id{font-family:monospace;opacity:.8;}.ss-cat{opacity:.65;}
+.ss-title{font-weight:700;font-size:1.02rem;margin-bottom:.15rem;}
+.ss-text{line-height:1.45;}
+.ss-step{padding:1rem;border-radius:14px;border:1px solid rgba(127,127,127,.25);
+  background:rgba(127,127,127,.06);height:100%;}
+.ss-step b{font-size:1.05rem;}
+@media (max-width:640px){.ss-hero h1{font-size:1.5rem;}}
