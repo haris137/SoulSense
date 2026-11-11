@@ -7,7 +7,7 @@ in 8 categories, a **forward-chaining inference engine**, **conflict resolution*
 
 > Fan-made project, not affiliated with Aggro Crab. No machine learning is used.
 
-**Live URL:** [https://your-app-name.vercel.app](https://your-app-name.vercel.app)
+**Live URL:** [https://soulsense-expertsystem.streamlit.app/](https://soulsense-expertsystem.streamlit.app/)
 
 ---
 
